@@ -4,15 +4,15 @@ oldship
 
 ## Cape Town, April 2013
 
-[[ pics/2013.04-Bearn.jpg ]]  
-In the "old ship" of Cape Town.
+![Bearn](/pics/2013.04-Bearn.jpg "Go into the bathroom he says")  
+In the "old ship" of Cape Town
 
 ## Goods
 
-[[ pics/jared1.gif ]]  
+![](/pics/jared1.gif)  
 
-[[ pics/jonathan1.jpg ]]  
+![](/pics/jonathan1.jpg)  
 
-[[ pics/thomas-and-beer_maid.jpg ]]
+![](/pics/thomas-and-beer_maid.jpg)
 
-[[ pics/oldship.jpg ]]
+![](/pics/oldship.jpg)
