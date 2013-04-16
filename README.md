@@ -1,4 +1,18 @@
 oldship
 =======
-<img src="http://mw2.google.com/mw-panoramio/photos/medium/38072274.jpg" />
 
+
+## Cape Town, April 2013
+
+![Bearn](/pics/2013.04-Bearn.jpg "Go into the bathroom he says")  
+In the "old ship" of Cape Town
+
+## Goods
+
+![](/pics/jared1.gif)  
+
+![](/pics/jonathan1.jpg)  
+
+![](/pics/thomas-and-beer_maid.jpg)
+
+![](/pics/oldship.jpg)
